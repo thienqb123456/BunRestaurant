@@ -1,0 +1,15 @@
+E:\Workspace\hoc_csharp\BunRestaurant\bin\Debug\net6.0\ThienRestaurant.exe
+E:\Workspace\hoc_csharp\BunRestaurant\bin\Debug\net6.0\ThienRestaurant.deps.json
+E:\Workspace\hoc_csharp\BunRestaurant\bin\Debug\net6.0\ThienRestaurant.runtimeconfig.json
+E:\Workspace\hoc_csharp\BunRestaurant\bin\Debug\net6.0\ThienRestaurant.dll
+E:\Workspace\hoc_csharp\BunRestaurant\bin\Debug\net6.0\ThienRestaurant.pdb
+E:\Workspace\hoc_csharp\BunRestaurant\obj\Debug\net6.0\ThienRestaurant.csproj.AssemblyReference.cache
+E:\Workspace\hoc_csharp\BunRestaurant\obj\Debug\net6.0\ThienRestaurant.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workspace\hoc_csharp\BunRestaurant\obj\Debug\net6.0\ThienRestaurant.AssemblyInfoInputs.cache
+E:\Workspace\hoc_csharp\BunRestaurant\obj\Debug\net6.0\ThienRestaurant.AssemblyInfo.cs
+E:\Workspace\hoc_csharp\BunRestaurant\obj\Debug\net6.0\ThienRestaurant.csproj.CoreCompileInputs.cache
+E:\Workspace\hoc_csharp\BunRestaurant\obj\Debug\net6.0\ThienRestaurant.dll
+E:\Workspace\hoc_csharp\BunRestaurant\obj\Debug\net6.0\refint\ThienRestaurant.dll
+E:\Workspace\hoc_csharp\BunRestaurant\obj\Debug\net6.0\ThienRestaurant.pdb
+E:\Workspace\hoc_csharp\BunRestaurant\obj\Debug\net6.0\ThienRestaurant.genruntimeconfig.cache
+E:\Workspace\hoc_csharp\BunRestaurant\obj\Debug\net6.0\ref\ThienRestaurant.dll
